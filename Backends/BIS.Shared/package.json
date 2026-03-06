@@ -1,6 +1,6 @@
 {
-  "name": "com.cysharp.magiconion.samples.myapp.shared.unity",
+  "name": "xyz.evergloam.bis.shared.unity",
   "version": "1.0.0",
-  "displayName": "MyApp.Shared.Unity",
-  "description": "MyApp.Shared.Unity"
+  "displayName": "BIS.Shared.Unity",
+  "description": "BIS.Shared.Unity"
 }
