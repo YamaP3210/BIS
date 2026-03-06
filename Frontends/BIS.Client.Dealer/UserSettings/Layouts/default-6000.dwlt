@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 56}
   m_MaxSize: {x: 32384, y: 8096}
   vertical: 0
-  controlID: 15
+  controlID: 24
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -324,7 +324,7 @@ MonoBehaviour:
       height: 2015.5017
     m_MinimalGUI: 1
   m_defaultScale: 0.3323242
-  m_LastWindowPixelSize: {x: 850.75, y: 863.5}
+  m_LastWindowPixelSize: {x: 680.6, y: 690.8}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -778,7 +778,7 @@ MonoBehaviour:
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Works\Developments\BIS\Projects\BIS\Frontends\BIS.Client.Shared
+  m_LastProjectPath: D:\Works\Developments\BIS\Projects\BIS\Frontends\BIS.Client.Dealer
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
@@ -821,7 +821,6 @@ MonoBehaviour:
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 66050
-    - m_Data: 77798
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
