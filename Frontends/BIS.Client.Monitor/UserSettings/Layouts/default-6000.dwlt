@@ -324,7 +324,7 @@ MonoBehaviour:
       height: 2015.5017
     m_MinimalGUI: 1
   m_defaultScale: 0.3323242
-  m_LastWindowPixelSize: {x: 680.6, y: 690.8}
+  m_LastWindowPixelSize: {x: 850.75, y: 863.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -638,11 +638,12 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 49332
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -59564
+      - m_Data: -1320
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -767,7 +768,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -787,7 +789,12 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs: []
+    m_ExpandedIDs:
+    - m_Data: 0
+    - m_Data: 49332
+    - m_Data: 49334
+    - m_Data: 49336
+    - m_Data: 49338
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -815,12 +822,16 @@ MonoBehaviour:
       m_ResourceFile: 
   m_AssetTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: []
+    m_SelectedIDs:
+    - m_Data: 49332
     m_LastClickedID:
-      m_Data: 0
+      m_Data: 49332
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 66024
+    - m_Data: 49332
+    - m_Data: 49334
+    - m_Data: 49336
+    - m_Data: 49338
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -847,8 +858,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 49332
+    m_LastClickedInstanceID: 49332
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
